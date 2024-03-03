@@ -1,0 +1,6 @@
+org.springframework.test.context.ContextCustomizerFactory = com.offbit.\
+    cricexchange.config.TestContainersSpringContextCustomizerFactory,com.offbit.\
+    cricexchange.config.SqlTestContainersSpringContextCustomizerFactory,com.\
+    offbit.cricexchange.config.\
+    KafkaTestContainersSpringContextCustomizerFactory,com.offbit.cricexchange.\
+    config.RedisTestContainersSpringContextCustomizerFactory
